@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wayzdsc" alt="wayzdsc" /></a> </p>
 
-- 🔭 Currently working on [JavaFromZero](linkhere)
+- 🔭 Currently working on [JavaFromZero](https://github.com/Wayzdsc/JavaFromZero)
 
 - 🌍 Currently learning **Java fundamentals**
 

@@ -1,7 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Wayz</h1>
 <h3 align="center">A coding enthusiast with a really beginner level !</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wayzdsc&label=Visits&color=71c8fe&style=flat" alt="wayzdsc" /> </p>
+<br>
+<br>
 
 <h3 align="left">About me and my projects:</h3>
 

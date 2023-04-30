@@ -1,4 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Wayz</h1>
+<h1 align="center">Hi there 👋</h1>
+<h2 align="center">I'm Scarface</h2>
 <h3 align="center">A coding enthusiast with a really beginner level !</h3>
 
 <br>
@@ -6,7 +7,7 @@
 
 <h3 align="left">About me and my projects:</h3>
 
-- 🔭 Currently working on [SkylyMC](https://github.com/Wayzdsc/norepofornow)
+- 🔭 Currently working on [ProjectZero](https://github.com/Scarface/ProjectZero)
 
 - 🌍 Currently learning **Java fundamentals**
 

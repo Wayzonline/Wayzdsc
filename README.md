@@ -7,7 +7,7 @@
 
 <h3 align="left">About me and my projects:</h3>
 
-- 🔭 Currently working on [ProjectZero](https://github.com/Scarface/ProjectZero)
+- 🔭 Currently working on [ProjectZero](https://github.com/0xScxrface/ProjectZero)
 
 - 🌍 Currently learning **Java fundamentals**
 

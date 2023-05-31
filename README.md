@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
-<h2 align="center">I'm Scarface</h2>
+<h2 align="center">I'm Wayz</h2>
 <h3 align="center">A coding enthusiast with a really beginner level !</h3>
 
 <br>

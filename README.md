@@ -7,15 +7,15 @@
 
 <h3 align="left">About me and my projects:</h3>
 
-- 🔭 Currently working on [ProjectZero](https://github.com/0xScxrface/ProjectZero)
+- 🔭 Currently working on [EzTools Discord bot](https://github.com/Wayzwastaken/EzTools)
 
-- 🌍 Currently learning **Java fundamentals**
+- 🌍 Working hard is the only key to achieve success ^^
 
-- 🍀 Looking to collaborate on **Minecraft servers to make advanced and complete plugins in the future**
+- 🤝 Open for any **collab requests** or **any project participation that involves JavaScript**. For that simply add me on dc, my tag is on my profile directly, or you can ask me from this readme, by opening a request !
 
-- 🤝 Always present for any **Java request** in order to train myself
+-  💻 I love programming universe since few years, and it's even now a domain that attract me
 
-- 📫 How to reach me **wayzdsc.hitmeup@gmail.com**
+- 📫 How to reach me ? You can just add me on Discord as I already said above, or send me a mail on this mail (I'll do my best to reply ^^') : **wayz.discord@gmail.com**
 
 
 <h3 align="left">Used languages and tools:</h3>

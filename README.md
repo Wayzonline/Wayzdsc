@@ -7,7 +7,7 @@
 
 <h3 align="left">About me and my projects:</h3>
 
-- 🔭 Currently working on [EzTools Discord bot](https://github.com/Wayzwastaken/EzTools)
+- 🔭 Currently working on [nothing :c](https://lol.com)
 
 - 🌍 Working hard is the only key to achieve success ^^
 

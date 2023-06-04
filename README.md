@@ -26,4 +26,4 @@
 <br>
 <br>
 
-[![My most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)ㅤㅤㅤㅤ![My profile stats](https://github-readme-stats.vercel.app/api?username=Wayzdsc&show_icons=true&theme=tokyonight)
+[![My most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)ㅤㅤㅤㅤ![My profile stats](https://github-readme-stats.vercel.app/api?username=Wayzwastaken&show_icons=true&theme=tokyonight)

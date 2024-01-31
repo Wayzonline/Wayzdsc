@@ -24,5 +24,6 @@
 <br>
 <br>
 
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-![Profile](https://github-readme-stats.vercel.app/api?username=Wayzwastaken&show_icons=true&theme=tokyonight)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)
+
+![Profile](https://github-readme-stats.vercel.app/api?username=Wayzonline&show_icons=true&theme=tokyonight)

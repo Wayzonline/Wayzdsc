@@ -1,21 +1,19 @@
 <h1 align="center">Hi there 👋</h1>
 <h2 align="center">I'm Wayz</h2>
-<h3 align="center">A coding enthusiast with a really beginner level !</h3>
+<h3 align="center">A beginner coder who likes computers !</h3>
+<h4 align="center">My learning depends on the mood I am in ^^'</h4>
 
 <br>
 <br>
 
-<h3 align="left">About me and my projects:</h3>
+<h3 align="left">Short intro :</h3>
 
+
+-  💻 I love programming universe since a few years, and that's a domain who'll never stop to fascinate me :D
 - 🔭 Currently working on [Hackixel testimonials](https://github.com/Wayzonline/Hackixel-Testimonials)
-
-- 🌍 Only for fun and travel my life hours on cool things :3 
-
-- 🤝 Open for any **collab requests** or **any project participation that involves JavaScript**. For that simply add me on dc, my tag is on my profile directly, or you can ask me from this readme, by opening a request !
-
--  💻 I love programming universe since few years, and it's even now a domain that attract me
-
-- 📫 How to reach me ? You can just add me on Discord as I already said above, or send me a mail on this mail (I'll do my best to reply ^^') : **wayz.discord@gmail.com**
+- 🌍 I'm here only for fun by traveling for hours on cool things :3 
+- 🤝 I'm open for any **collab requests** or **discuss abt any subject**. For that simply add me on dc, my tag is on my profile directly, or you can ask me from this readme, by opening an issue !
+- 📫 How to reach me ? For more advanced or "personal" questions, u can find me on Discord as I already said above (99% on), or send me a mail on this mail address (I'll do my best to reply ^^') - **wayz.discord@gmail.com**
 
 
 <h3 align="left">Languages I'm * familiar * with :</h3>
